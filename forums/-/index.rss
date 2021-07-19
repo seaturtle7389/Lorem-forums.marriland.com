@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marriland Forums</title>
+    <description>The Marriland Forums</description>
+    <pubDate>Mon, 19 Jul 2021 05:05:16 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Jul 2021 05:05:16 +0000</lastBuildDate>
+    <generator>Marriland Forums</generator>
+    <link>https://forums.marriland.com/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://forums.marriland.com/forums/-/index.rss"/>
+  </channel>
+</rss>
